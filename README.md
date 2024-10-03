@@ -28,6 +28,11 @@
 Склонируйте проект на ваш компьютер:
 
 ```bash
+# Клонируйте репозиторий
+git clone https://github.com/thebilderberg/pokemon_search.git
+```
+
+```bash
 # Установите зависимости
 npm install
 ```
